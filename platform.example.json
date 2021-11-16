@@ -1,7 +1,7 @@
 {
   
   "webhook":  "DISCORD_WEBHOOK_URL",
-     "name":  "Hapsby",
+     "name":  "Contra Speedbot",
   "runfile":  "/home/example/platform.runfile.json",
    "params": [ "status=verified", "orderby=submitted", 
 	       "direction=desc", "max=40",
